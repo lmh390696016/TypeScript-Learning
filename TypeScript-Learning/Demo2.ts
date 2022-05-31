@@ -1,4 +1,4 @@
-let count: number = 1;
+let count2: number = 1;
 
 // 自定义静态类型
 interface Li {

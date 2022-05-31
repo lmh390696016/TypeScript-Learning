@@ -6,3 +6,5 @@ function jsPang() {
 jsPang()
 
 // 静态类型
+
+
