@@ -1,4 +1,4 @@
-const count: number = 918;
+export const count: number = 918;
 const myName: string = 'liminghao'
 // null, undefined, boolean, void, symbol
 
