@@ -54,5 +54,5 @@ const getResume = (person: Teacher) => {
 }
 
 
-screenResume(person)
-getResume(person)
+// screenResume(person)
+// getResume(person)
