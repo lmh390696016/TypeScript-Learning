@@ -19,3 +19,4 @@ const goddess = new Human()
 console.log(goddess.sayHello());
 console.log(goddess.sayLove());
 
+
